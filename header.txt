@@ -22,7 +22,7 @@ Optic Design: Graphic Design for the World Wide Web
 <area shape="rect" coords="10,80,116,112" href="index.shtml" alt="Home" />
 <area shape="rect" coords="117,80,224,112" href="portfolio.shtml" alt="Portfolio" />
 <area shape="rect" coords="225,80,332,112" href="aboutus.shtml" alt="About Us" />
-<area shape="rect" coords="333,80,440,112" href="faq.shtml" alt="Frequently Asked Questions" />
+<area shape="rect" coords="333,80,440,112" href="hosting.shtml" alt="Hosting"/>
 <area shape="rect" coords="441,80,548,112" href="pricing.shtml" alt="Pricing Information" />
 <area shape="rect" coords="549,80,659,112" href="contact.shtml" alt="Contact Us" />
 </map>

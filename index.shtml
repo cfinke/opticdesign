@@ -1,16 +1,13 @@
 <!--#include virtual="header.txt" -->
-<td align="CENTER">
-<table width="620" cellpadding="5" cellspacing="10" border="0">
+<td class="center">
+<table class="maintable" cellpadding="4">
 <tr>
-<td valign="TOP" width="300">
-<font face="arial" size="2"> 
-<img src="images/bigo.gif" align="LEFT" width="65" height="60" alt="O">
-ptic Design creates low-cost, high-content sites for the World Wide Web.  We use the industry-standard practices of Web design including, but not limited to, HTML, JavaScript, Macromedia Flash, Dynamic HTML, PERL, CGI, and PHP.  Also, we are able to design using the newer bleeding-edge Internet technologies such as VML (Vector Markup Language), XML, or even XHTML.
-</font>
+<td>
+<p align="justify"><img src="images/bigo.gif" align="left" width="65" height="60" alt="O"/>
+ptic Design creates low-cost, high-content sites for the World Wide Web.  Our goal, first and foremost, is to make sure that you have a site that can be easily updated by you, the client, after all design work has been completed.  After all, the most important aspect of a website is content - current content.  Also, we want to make sure that the technical end of your site stays current as well.  This is why we employ the latest and most supported means of website creation to ensure that your site is consistently viewable to everyone who wants to see it, and that means more visibility for you, and less hassle for your customers.</p>
+<p align="justify">For over three years, customers have found themselves extremely satisfied with the level of expertise that we can contribute to almost any project.  Need a database to hold the names and e-mail addresses of your clients?  We can do that.  Want an interactive animation showing your your business operates?  We can do that.  Need an e-commerce site to sell your product worldwide?  We can do that, too.  Take a look at our <a href="portfolio.shtml"><b>portfolio</b></a> to see our most recent clients, and get a feel for what we can do for you.
+</p>
 </td>
-<td valign="TOP" width="300">
-<font face="arial" size="2"> 
-At Optic Design, customers have been walking away satisfied with their sites for over two years.  We price to meet the needs of the customer, and are known for being design-flexible.  Whether you need an e-commerce site for your business, an interactive Flash presentation describing  your band, or simply a presence on the Web for your organization, we can make your ideas a reality.  See our <a href="faq.shtml"><b>FAQ</b></a> for more information.</font>
 </tr>
 </table>
 </td>

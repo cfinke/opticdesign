@@ -1,101 +1,100 @@
 <!--#include virtual="header.txt" -->
-<td colspan="3">
-<font face="arial" size="2"> 
+<td class="center">
+<table class="maintable" cellpadding="4">
+<tr>
+<td colspan="2">
 Below are the sites created and maintained by Optic Design.  The designs may have changed since these samples were taken.
-</font>
 </td>
 </tr>
 <tr>
-<td align="CENTER">
-<table width="620" cellpadding="5" cellspacing="10" border="0">
-<tr>
 <td>
-<a href="http://www.ncambulance.com/">
-<img src="images/ambulanceshot.gif" alt="North Central Ambulance Sales and Service" border="1" width="140" height="78">
-</a>
+<a href="http://www.ncambulance.com/"><img src="images/ambulanceshot.gif" alt="North Central Ambulance Sales and Service" border="1" width="140" height="78"/></a>
 </td>
-<td valign="CENTER">
-<font face="arial" size="2">
+<td valign="center">
 <a href="http://www.ncambulance.com/"><b>North Central Ambulance Sales and Service</b></a>
-<br>An e-commerce site designed and implemented for an ambulance repair and sales establishment.
-</font>
+<br/>
+An e-commerce site designed and implemented for an ambulance repair and sales establishment.
 </td>
 </tr>
 <tr>
 <td>
-<a href="http://mayer.opticdesign.com/">
-<img src="images/mayershot.gif" alt="Mayer Lutheran High Wind Ensemble" border="1" width="140" height="87">
-</a></td>
-<td valign="CENTER">
-<font face="arial" size="2">
-<a href="http://mayer.opticdesign.com/"><b>Mayer Lutheran High Wind Ensemble</b></a>
-<br>A complex but easily updatable site built for a local high school concert band. 
-</font>
+<a href="info/"><img src="images/lhsinfoshot.gif" alt="Mayer Lutheran High Alumni Site" border="1" width="140" height="66"/></a>
+</td>
+<td valign="center">
+<a href="info/"><b>Mayer Lutheran High Alumni Site</b></a>
+<br/>
+A database-driven alumni site to allow high school classmates to keep in touch after graduation.
 </td>
 </tr>
 <tr>
 <td>
-<img src="images/instashot.gif" alt="InstaShock.com" border="1" width="140" height="87">
+<a href="http://www.emanuelhamburg.org/"><img src="images/hamburgshot.gif" alt="Emanuel Lutheran School, Hamburg MN" border="1" width="140" height="87"/></a>
 </td>
-<td valign="CENTER">
-<font face="arial" size="2">
-<b>InstaShock.com</b> (Currently offline)
-<br>The initial layout for InstaShock.com, a B2B portal. 
-</font>
+<td valign="center">
+<a href="info/"><b>Emanuel Lutheran School, Hamburg Minnesota</b></a>
+<br/>
+An easily updatable site designed for the faculty and students of Emanuel Lutheran School in Hamburg, Minnesota (USA).</td>
+</tr>
+<tr>
+<td>
+<a href="images/bigshock.gif"><img src="images/instashot.gif" alt="InstaShock.com" border="1" width="140" height="87" border="0"/></a>
+</td>
+<td valign="center">
+<a href="images/bigshock.gif"><b>InstaShock.com</b></a> (Currently offline)
+<br/>
+The initial layout for InstaShock.com, a B2B portal. 
 </td>
 </tr>
 <tr>
 <td>
-<a href="images/intronew.swf">
-<img src="images/aftershot.gif" alt="Flash intro for AfterShockDesign.com" border="1" width="140" height="87"></a>
+<a href="images/intronew.swf"><img src="images/aftershot.gif" alt="Flash intro for AfterShockDesign.com" border="1" width="140" height="87"/></a>
 </td>
-<td valign="CENTER">
-<font face="arial" size="2">
+<td valign="center">
 <a href="images/intronew.swf">
 <b>AftershockDesign.com Flash Intro</b>
 </a>
-<br>
+<br/>
 An innovative Flash intro once in use for Aftershock Design.
-</font>
 </td>
 </tr>
 <tr>
-<td valign="TOP" colspan="2">
+<td valign="top" colspan="2">
 <table width="100%">
 <tr>
 <td>
-<font face="arial" size="2"> 
-<p>The design team at Optic has knowledge and experience in the following areas:
+<p>The design team at Optic Design has knowledge and experience in the following areas:
 <ul>
-<li>HTML
-<li>PHP
-<li>JavaScript
-<li>DHTML
-<li>CGI - PERL
-</ul></font>
+<li>HTML</li>
+<li>PHP</li>
+<li>JavaScript</li>
+<li>DHTML</li>
+</ul>
 </td>
 <td valign="TOP" width="200"><font face="arial" size="2"> 
 <ul>
-<li>Splash Pages
-<li>Graphic Design
+<li>CGI - PERL</li>
+<li>Graphic Design</li>
 <li>Computer Graphic programs:
-<ul><li>Paint Shop Pro
-<li>Photoshop											
-<li>Painter
-</ul>
-<li>Password Protection
-<li>MIDI's and WAV's
-</ul></font>
-</td>
-<td valign="TOP" width="200">
-<font face="arial" size="2">
 <ul>
-<li>Databases
-<li>Graphic Layout
-<li>Graphic Optimization
-<li>Flash
+<li>Paint Shop Pro</li>
+<li>Photoshop</li>										
+<li>Painter</li>
 </ul>
-<img border="1" width="88" height="31" src="http://jigsaw.w3.org/css-validator/images/vcss.gif" alt="Valid CSS!" border="0">
+</li>
+<li>Password Protection</li>
+</ul>
+</td>
+<td valign="top" width="200">
+<ul>
+<li>MySQL Databases</li>
+<li>Graphic Layout</li>
+<li>Graphic Optimization</li>
+<li>Flash</li>
+</ul>
+<img src="http://jigsaw.w3.org/css-validator/images/vcss.gif" border="0" width="88" height="31" alt="Valid CSS!"/>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>

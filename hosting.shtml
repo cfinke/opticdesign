@@ -1,0 +1,11 @@
+<!--#include virtual="header.txt" -->
+<td class="center">
+<table class="maintable" cellpadding="4">
+<tr>
+<td>
+<p>Optic Design uses <a href="http://www.affordablehost.com/">Affordable Host</a> to host all of the sites that it creates hand-in-hand with the client.</p>
+</td>
+</tr>
+</table>
+</td>
+<!--#include virtual="boiler.txt" -->

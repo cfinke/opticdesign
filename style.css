@@ -26,9 +26,6 @@ a:active { color: #8866BB;
 	font-family: arial, "sans serif", serif; 
         font-size: 10pt; }
 	     
+.imgmap { border-width: 0; }
+
 .alignleft { text-align: left; }
-
-.headernav { border: 0;
-	     width: 688px;
-	     height: 117px; }
-
