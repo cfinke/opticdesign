@@ -2,21 +2,19 @@
 <td align="CENTER">
 <table width="620" cellpadding="5" cellspacing="10" border="0">
 <tr>
-<td valign="TOP" width="50%">
+<td valign="TOP" width="50%" colspan="2">
 <font face="arial" size="2"> 
 This month's focus is on:
 <p><b><font size="3">Chris Finke, Designer</font></b>
 <br><br>Chris has several years experience in Web design.  He heads up the design team, keeping things together.  His areas of specialty are HTML markup, Flash, computer graphics, and layout.
-<br><br>Examples of Chris's work are seen in the graphics for this site, as well as the layouts of RealJerry.com and InstaShock.com.  His preferred programs include Notepad, Paint Shop Pro, and Macromedia's Flash 4.
+<br><br>Examples of Chris's work are seen in the graphics for this site, as well as the layouts of RealJerry.com and InstaShock.com.  His preferred programs include Adobe Photoshop and Macromedia Flash.
 </font>
 </td>
-<td valign="TOP" width="50%">
-<font face="arial" size="2"> 
-<b>Birthday:</b> February 17th.
-<br><br><b>Quote:</b> "Life is like a peeled grape."
-<br><br><b>Acceptance Speech:</b> I never expected this, but I prepared this short speech just in case:  I'd like to thank the Academy for bestowing the honor of 'Featured Designer' on me; I've wanted it for so long.  This makes all the long hours so worthwhile, that and being paid to do something I love so much...
-</font>
-</td>
+<!-- <TD VALIGN=TOP WIDTH="50%">
+<FONT FACE="arial" size=2> 
+
+</FONT>
+</TD> -->
 </tr>
 </table>
 </td>
