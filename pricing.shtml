@@ -1,7 +1,13 @@
 <!--#include virtual="header.txt" -->
+<td align="center">
+<table class="maintable" cellpadding="4">
+<tr>
 <td>
 <p>Typically, the base rate for a four to six-page site is $200.00 (all prices are in US dollars).</p>
 <p>E-commerce, powered by the Agora shopping cart system, adds approximately $1000.00 to the end price of a website.  This price, however, can fluctuate depending on the number of products involved.</p>
 <p>Due to the nature of Web design, prices can only be vaguely approximated.  <a href="contact.shtml">Contact us</a> for an exact quote. (Non-profit organizations may qualify for discounted or free services.)</p>
+</td>
+</tr>
+</table>
 </td>
 <!--#include virtual="boiler.txt" -->
