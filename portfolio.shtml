@@ -1,106 +1,118 @@
 <!--#include virtual="header.txt" -->
-<TD COLSPAN=3>
-<FONT FACE="arial" size=2> 
-Below are the sites created and maintained by Optic Design.  The designs may have changed since these samples were taken.
-</FONT>
-</TD>
-</TR>
-<TR>
-<TD ALIGN=CENTER>
-<TABLE WIDTH=620 CELLPADDING=5 CELLSPACING=10 BORDER=0>
-<TR>
-<TD>
-<A HREF="http://www.ncambulance.com/">
-<IMG SRC="images/ambulanceshot.gif" ALT="North Central Ambulance Sales and Service" BORDER=1 WIDTH="140" HEIGHT="78" >
-</A>
-</TD>
-<TD VALIGN=CENTER>
-<FONT FACE=arial SIZE=2>
-<A HREF="http://www.ncambulance.com/"><B>North Central Ambulance Sales and Service</B></A>
-<BR>An e-commerce site designed and implemented for an ambulance repair and sales establishment.
-</FONT>
-</TD>
-</TR>
-<TR>
-<TD>
-<A HREF="http://www.opticdesign.com/mayer/">
-<IMG SRC="images/mayershot.gif" ALT="Mayer Lutheran High Wind Ensemble" BORDER=1 WIDTH=140 HEIGHT=87>
-</A></TD>
-<TD VALIGN=CENTER>
-<FONT FACE="arial" SIZE=2>
-<A HREF="http://mayer.opticdesign.com/"><B>Mayer Lutheran High Wind Ensemble</B></A>
-<BR>A complex but easily updatable site built for a local high school concert band. 
-</FONT>
-</TD>
-</TR>
-<TR>
-<TD>
-<IMG SRC="images/instashot.gif" ALT="InstaShock.com" BORDER=1 WIDTH=140 HEIGHT=87>
-</TD>
-<TD VALIGN=CENTER>
-<FONT FACE=arial SIZE=2>
-<B>InstaShock.com</B> (Currently offline)
-<BR>The initial layout for InstaShock.com, a B2B portal. 
-</FONT>
-</TD>
-</TR>
-<TR>
-<TD>
-<A HREF="images/intronew.swf">
-<IMG SRC="images/aftershot.gif" ALT="Flash intro for AfterShockDesign.com" BORDER=1 WIDTH=140 HEIGHT=87></A>
-</TD>
-<TD VALIGN=CENTER>
-<FONT FACE=arial SIZE=2>
-<A HREF="images/intronew.swf">
-<B>AftershockDesign.com Flash Intro</B>
-</A>
-<BR>
+<td colspan="3">
+<font face="arial" size="2"> 
+Below are the sites created and maintained by Optic Design.  The designs may have changed since these samples were taken.  ("<sup>*</sup>" = Coming soon)
+</font>
+</td>
+</tr>
+<tr>
+<td align="CENTER">
+<table width="620" cellpadding="5" cellspacing="10" border="0">
+<tr>
+<td>
+<a href="http://mayer.opticdesign.com/">
+<img src="images/mayershot.gif" alt="Mayer Lutheran High Wind Ensemble" border="1" width="140" height="87">
+</a></td>
+<td valign="CENTER">
+<font face="arial" size="2">
+<a href="http://mayer.opticdesign.com/"><b>Mayer Lutheran High Wind Ensemble</b></a>
+<br>An complex but easily updatable site built for a local high school concert band.  <a href="#" onclick="window.open('mayertestimonial.html')">Read the client's testimonial.</a><sup>*</sup>
+</font>
+</td>
+</tr>
+<tr>
+<td>
+<img src="images/instashot.gif" alt="InstaShock.com" border="1" width="140" height="87">
+</td>
+<td valign="CENTER">
+<font face="arial" size="2">
+<b>InstaShock.com</b> (Currently offline)
+<br>The initial layout for InstaShock.com, a B2B portal. 
+</font>
+</td>
+</tr>
+<tr>
+<td>
+<a href="images/intronew.swf">
+<img src="images/aftershot.gif" alt="Flash intro for AfterShockDesign.com" border="1" width="140" height="87"></a>
+</td>
+<td valign="CENTER">
+<font face="arial" size="2">
+<a href="images/intronew.swf">
+<b>AftershockDesign.com Flash Intro</b>
+</a>
+<br>
 An innovative Flash intro once in use for Aftershock Design.
-</FONT>
-</TD>
-</TR>
-<TR>
-<TD VALIGN=TOP COLSPAN=2>
-<TABLE WIDTH="100%">
-<TR>
-<TD>
-<FONT FACE="arial" size=2> 
-<P>The design team at Optic has knowledge and experience in the following areas:
-<UL>
-<LI>HTML
-<LI>PHP
-<LI>JavaScript
-<LI>DHTML
-<LI>CGI - PERL
-</UL></FONT>
-</TD>
-<TD VALIGN=TOP WIDTH=200><FONT FACE="arial" size=2> 
-<UL>
-<LI>Splash Pages
-<LI>Graphic Design
-<LI>Computer Graphic programs:
-<UL><LI>Paint Shop Pro
-<LI>Photoshop											
-<LI>Painter
-</UL>
-<LI>Password Protection
-<LI>MIDI's and WAV's
-</UL></FONT>
-</TD>
-<TD VALIGN=TOP WIDTH=200>
-<FONT FACE=arial size=2>
-<UL>
-<LI>Databases
-<LI>Graphic Layout
-<LI>Graphic Optimization
-<LI>Flash
-</UL>
-<IMG BORDER=1 WIDTH=88 HEIGHT=31 SRC="http://jigsaw.w3.org/css-validator/images/vcss.gif" ALT="Valid CSS!" border=0>
-</TD>
-</TR>
-</TABLE>
-</TD>
-</TR>
-</TABLE>
-</TD>
+</font>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.cefenterprises.com/">
+<img src="images/humorshot.gif" alt="The Humor Archive: Absurdity at its best." border="1" width="140" height="87"></a>
+</td>
+<td valign="CENTER">
+<font face="arial" size="2">
+<a href="http://www.cefenterprises.com/">
+<b>Absurd! The Humor Archive</b></a>
+<br>A humor archive created and updated by the staff of Optic Design for their personal amusement, but it turned out to amuse others as well.  <a href="#" onclick="window.open('humortestimonial.html')">Read the <b><i>users'</i></b> testimonials.</a><sup>*</sup>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.realjerry.com/">
+<img src="images/dosageshot.gif" alt="Dosage: Teen Garage Band" border="1" width="140" height="87"></a>
+</td>
+<td valign="CENTER">
+<font face="arial" size="2">
+<a href="http://www.realjerry.com/"><b>Dosage: From Here to Nowhere</b></a>
+<br>A small Flash site created for a local alternative band.  The site has since become included in the line of <a href="flash/">Flash template sites.</a> <a href="#" onclick="window.open('dosagetestimonial.html', 'test', config='toolbar=0,menubar=0,location=0,directories=0,status=0')">Read the client's testimonial.</a>
+</td>
+</tr>
+<tr>
+<td valign="TOP" colspan="2">
+<table width="100%">
+<tr>
+<td>
+<font face="arial" size="2"> 
+<p>The design team at Optic has knowledge and experience in the following areas:
+<ul>
+<li>HTML
+<li>PHP
+<li>JavaScript
+<li>DHTML
+<li>CGI - PERL
+</ul></font>
+</td>
+<td valign="TOP" width="200"><font face="arial" size="2"> 
+<ul>
+<li>Splash Pages
+<li>Graphic Design
+<li>Computer Graphic programs:
+<ul><li>Paint Shop Pro
+<li>Photoshop											
+<li>Painter
+</ul>
+<li>Password Protection
+<li>MIDI's and WAV's
+</ul></font>
+</td>
+<td valign="TOP" width="200">
+<font face="arial" size="2">
+<ul>
+<li>Databases
+<li>Graphic Layout
+<li>Graphic Optimization
+<li>Flash
+</ul>
+<img border="1" src="http://www.w3.org/Icons/valid-html40" alt="Valid HTML 4.0!" height="31" width="88" border="0">
+&nbsp;
+<img border="1" width="88" height="31" src="http://jigsaw.w3.org/css-validator/images/vcss.gif" alt="Valid CSS!" border="0">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
 <!--#include virtual="boiler.txt" -->

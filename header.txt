@@ -13,7 +13,7 @@ Optic Design: Graphic Design for the World Wide Web
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-<div class="center">
+<div align="center">
 <table class="centertable">
 <tr>
 <td>

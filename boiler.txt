@@ -1,6 +1,6 @@
 </tr>
 <tr>
-<td class="half" colspan="2" align="center">
+<td colspan="2" align="center">
 <img src="images/footer.gif" width="668" height="47" alt="Navigation Bar" ismap="ismap" usemap="#footer" class="imgmap"/>
 <map name="footer">
 <area shape="rect" coords="9,4,116,24" href="index.shtml" alt="Home">
