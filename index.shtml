@@ -1,0 +1,25 @@
+<!--#include virtual="header.txt" -->
+<td align="CENTER">
+<table width="620" cellpadding="5" cellspacing="10" border="0">
+<tr>
+<td colspan="2">
+<font face="arial" size="2">
+We are pleased to announce the arrival of a brand new product to our customers: <b>Template-driven Flash sites for $89.95</b>.  The first four in a long line of templates are now available to you or your business; click <a href="flash/">here</a> to take a look.
+</font>
+</td>
+</tr>
+<tr>
+<td valign="TOP" width="300">
+<font face="arial" size="2"> 
+<img src="images/bigo.gif" align="LEFT" width="65" height="60" alt="O">
+ptic Design creates low-cost high-content sites for the World Wide Web.  We use the latest in Internet technology including HTML, JavaScript, Flash, DHTML, PERL, CGI, and much more.  Our motto is that the project is not done until it is exactly how the customer wants it - even if it means working more hours for the same contract price: which is how it should be.
+</font>
+</td>
+<td valign="TOP" width="300">
+<font face="arial" size="2"> 
+We have designed sites and pages for groups ranging from a small-town rock band to a national online banking firm.  We set our prices to be competetive with the market;  instead of relying on high pricing for a lower number of contracts, we set our prices lower for a larger number of projects.  More information can be found on our <a href="pricing.shtml">pricing</a> page, or you can try our <a href="faq.shtml">FAQ.</a>
+</font>
+</tr>
+</table>
+</td>
+<!--#include virtual="boiler.txt" -->

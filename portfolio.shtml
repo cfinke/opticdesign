@@ -1,0 +1,106 @@
+<!--#include virtual="header.txt" -->
+<TD COLSPAN=3>
+<FONT FACE="arial" size=2> 
+Below are the sites created and maintained by Optic Design.  The designs may have changed since these samples were taken.
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ALIGN=CENTER>
+<TABLE WIDTH=620 CELLPADDING=5 CELLSPACING=10 BORDER=0>
+<TR>
+<TD>
+<A HREF="http://www.ncambulance.com/">
+<IMG SRC="images/ambulanceshot.gif" ALT="North Central Ambulance Sales and Service" BORDER=1 WIDTH="140" HEIGHT="78" >
+</A>
+</TD>
+<TD VALIGN=CENTER>
+<FONT FACE=arial SIZE=2>
+<A HREF="http://www.ncambulance.com/"><B>North Central Ambulance Sales and Service</B></A>
+<BR>An e-commerce site designed and implemented for an ambulance repair and sales establishment.
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+<A HREF="http://www.opticdesign.com/mayer/">
+<IMG SRC="images/mayershot.gif" ALT="Mayer Lutheran High Wind Ensemble" BORDER=1 WIDTH=140 HEIGHT=87>
+</A></TD>
+<TD VALIGN=CENTER>
+<FONT FACE="arial" SIZE=2>
+<A HREF="http://mayer.opticdesign.com/"><B>Mayer Lutheran High Wind Ensemble</B></A>
+<BR>A complex but easily updatable site built for a local high school concert band. 
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+<IMG SRC="images/instashot.gif" ALT="InstaShock.com" BORDER=1 WIDTH=140 HEIGHT=87>
+</TD>
+<TD VALIGN=CENTER>
+<FONT FACE=arial SIZE=2>
+<B>InstaShock.com</B> (Currently offline)
+<BR>The initial layout for InstaShock.com, a B2B portal. 
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD>
+<A HREF="images/intronew.swf">
+<IMG SRC="images/aftershot.gif" ALT="Flash intro for AfterShockDesign.com" BORDER=1 WIDTH=140 HEIGHT=87></A>
+</TD>
+<TD VALIGN=CENTER>
+<FONT FACE=arial SIZE=2>
+<A HREF="images/intronew.swf">
+<B>AftershockDesign.com Flash Intro</B>
+</A>
+<BR>
+An innovative Flash intro once in use for Aftershock Design.
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP COLSPAN=2>
+<TABLE WIDTH="100%">
+<TR>
+<TD>
+<FONT FACE="arial" size=2> 
+<P>The design team at Optic has knowledge and experience in the following areas:
+<UL>
+<LI>HTML
+<LI>PHP
+<LI>JavaScript
+<LI>DHTML
+<LI>CGI - PERL
+</UL></FONT>
+</TD>
+<TD VALIGN=TOP WIDTH=200><FONT FACE="arial" size=2> 
+<UL>
+<LI>Splash Pages
+<LI>Graphic Design
+<LI>Computer Graphic programs:
+<UL><LI>Paint Shop Pro
+<LI>Photoshop											
+<LI>Painter
+</UL>
+<LI>Password Protection
+<LI>MIDI's and WAV's
+</UL></FONT>
+</TD>
+<TD VALIGN=TOP WIDTH=200>
+<FONT FACE=arial size=2>
+<UL>
+<LI>Databases
+<LI>Graphic Layout
+<LI>Graphic Optimization
+<LI>Flash
+</UL>
+<IMG BORDER=1 WIDTH=88 HEIGHT=31 SRC="http://jigsaw.w3.org/css-validator/images/vcss.gif" ALT="Valid CSS!" border=0>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</TD>
+<!--#include virtual="boiler.txt" -->

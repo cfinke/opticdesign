@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCtype html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "Dtd/xhtml1-strict.dtd">
+<html>
+<head>
+<meta name="resource-type" content="document" /> 
+<meta name="description" content="Optic Design creates affordable high-content websites through the use of the latest Internet technology." /> 
+<meta name="keywords" content="flash, design, web design, flash design, php, cgi, website design, web designer, website designer, programming, html, graphic, artist, graphic artist, graphic design, graphic designer, website designers, web design, flash 4, flash 5, flash website, flash web site, flash websites" />
+<meta name="robots" content="index, follow" />
+<meta content="20 days" name="revisit-after" />
+<title>
+Optic Design: Graphic Design for the World Wide Web
+</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div class="center">
+<table class="centertable">
+<tr>
+<td>
+<img class="imgmap" src="images/header.jpg" alt="OpticDesign.com Navigation Bar" width="688" height="117" ismap="ismap" usemap="#header" />
+<map name="header" id="header">
+<area shape="rect" coords="10,80,116,112" href="index.shtml" alt="Home" />
+<area shape="rect" coords="117,80,224,112" href="portfolio.shtml" alt="Portfolio" />
+<area shape="rect" coords="225,80,332,112" href="aboutus.shtml" alt="About Us" />
+<area shape="rect" coords="333,80,440,112" href="faq.shtml" alt="Frequently Asked Questions" />
+<area shape="rect" coords="441,80,548,112" href="pricing.shtml" alt="Pricing Information" />
+<area shape="rect" coords="549,80,659,112" href="contact.shtml" alt="Contact Us" />
+</map>
+</td>
+</tr>
+<tr>

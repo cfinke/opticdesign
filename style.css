@@ -1,0 +1,34 @@
+body { background: #ffffff; 
+       color: #000000; 
+       font-family: arial, "sans serif", serif; 
+       font-size: 10pt; }
+
+a:link { color: #8866BB;
+	 background-color: #ffffff; }
+
+a:visited { color: #8866BB;
+	    text-decoration: none;
+	    background-color: #ffffff; }
+
+a:active { color: #8866BB;
+	   background-color: #ffffff; }
+
+.center { text-align: center; }
+
+.centertable { width: 668px; 
+	       border-width: 0; }
+
+.maintable { width: 620px;
+	     border-width: 0; }
+
+.half { width: 50%;
+	vertical-align: top;
+	font-family: arial, "sans serif", serif; 
+        font-size: 10pt; }
+	     
+.alignleft { text-align: left; }
+
+.headernav { border: 0;
+	     width: 688px;
+	     height: 117px; }
+

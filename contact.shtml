@@ -1,0 +1,44 @@
+<!--#include virtual="header.txt" -->
+<TD ALIGN=CENTER>
+<FORM ACTION="cgi-bin/bnbform.cgi" METHOD=POST>
+<INPUT TYPE=HIDDEN NAME="data_order" VALUE="submit_by,name,reason,message">
+<INPUT TYPE=HIDDEN NAME="ok_url" VALUE="http://www.opticdesign.com/submit.shtml">
+<INPUT TYPE=HIDDEN NAME="not_ok_url" VALUE="http://www.opticdesign.com/submit.shtml">
+<TABLE WIDTH=620 CELLPADDING=5 CELLSPACING=10 BORDER=0>
+<TR>
+<TD VALIGN=TOP WIDTH=300>
+<FONT FACE="arial" size=2>
+To contact us, please fill out the the following form, or if prefer, you may contact us at our home office via the Postal Service at the address below or at <A HREF="mailto:info@opticdesign.com">info@opticdesign.com</a>.
+<INPUT TYPE="HIDDEN" NAME="submit_to" VALUE="chris@opticdesign.com">
+<INPUT TYPE="HIDDEN" NAME="form_id" VALUE="Optic Input">
+<BR><BR><B>Your name or the company you represent:</B><BR>
+<INPUT TYPE=Text NAME="name" SIZE=30>
+<BR><BR><B>E-mail address:</B><BR>
+<INPUT TYPE="Text" SIZE=30 NAME="submit_by">
+</FONT>
+</TD>
+<TD VALIGN=TOP WIDTH=300>
+<FONT FACE="arial" size=2>
+<B>Reason for message: </B>
+<SELECT NAME=reason>
+<OPTION VALUE="Design_Quote_Request">Design Quote Request
+<OPTION VALUE="Sales_Question">Sales Question
+<OPTION VALUE="Comment_On_Site">Comment on Site
+<OPTION VALUE="Broken_Link_Report">Broken Link Report
+<OPTION VALUE="Other">Other
+</SELECT>
+<BR><BR>
+<B>Your message:</B><BR>
+<TEXTAREA NAME="message" COLS=40 ROWS=9></TEXTAREA>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN=2 ALIGN=CENTER>
+<INPUT TYPE="Submit" VALUE="Submit Form">
+</TD>
+</TR>
+</TABLE>
+</FORM>
+</TD>
+<!--#include virtual="boiler.txt" -->

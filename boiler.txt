@@ -1,0 +1,25 @@
+</tr>
+<tr>
+<td class="half" colspan="2" align="center">
+<img src="images/footer.gif" width="668" height="47" alt="Navigation Bar" ismap="ismap" usemap="#footer" class="imgmap"/>
+<map name="footer">
+<area shape="rect" coords="9,4,116,24" href="index.shtml" alt="Home">
+<area shape="rect" coords="116,4,224,24" href="portfolio.shtml" alt="Portfolio">
+<area shape="rect" coords="224,4,332,24" href="aboutus.shtml" alt="About Us">
+<area shape="rect" coords="332,4,440,24" href="faq.shtml" alt="Frequently Asked Questions">
+<area shape="rect" coords="440,4,548,24" href="pricing.shtml" alt="Pricing Information">
+<area shape="rect" coords="548,4,656,24" href="contact.shtml" alt="Contact Us">
+</map><font face="arial">
+<small>
+<a href="index.shtml">[Home]</a> - <a href="portfolio.shtml">[Portfolio]</a> - <a href="aboutus.shtml">[About Us]</a> - <a href="faq.shtml">[FAQ]</a> - <a href="pricing.shtml">[Pricing]</a> - <a href="contact.shtml">[Contact]</a>
+<br><br><small>
+All content is &copy; 2000 www.OpticDesign.com.  OpticDesign.com is not responsible for changes to its designed sites after completion of the contract.  OpticDesign.com is not responsible for content on designed sites.
+<br><br>Optic Design - 9125 Oakwood Road - St. Bonifacius, MN 55375
+</font>
+</small></small>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
